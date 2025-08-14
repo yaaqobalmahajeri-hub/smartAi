@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+beautifulsoup4
+requests
+openai
+faiss-cpu
